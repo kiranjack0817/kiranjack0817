@@ -44,5 +44,5 @@ Mobile functional test scenarios, device compatibility checks, and an Appium + W
 
 I'm interested in QA automation, web application testing, API testing, regression projects, and opportunities to help teams improve their testing processes.
 
-- **LinkedIn:** [Add your LinkedIn profile URL]
+- **LinkedIn:** www.linkedin.com/in/v-kiran-naik-a0a291167
 - **GitHub:** Explore my repositories as the portfolio projects are published.
